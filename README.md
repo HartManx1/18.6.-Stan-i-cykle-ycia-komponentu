@@ -1,1 +1,1 @@
-# 18.6.-Stan-i-cykle-ycia-komponentu
+ https://hartmanx1.github.io/18.6.-Stan-i-cykle-ycia-komponentu/
