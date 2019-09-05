@@ -1,0 +1,1 @@
+# 18.6.-Stan-i-cykle-ycia-komponentu
